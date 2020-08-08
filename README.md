@@ -1,7 +1,7 @@
-### Hi there 👋 
-### Thanks for visiting my GitHub Profile.
+## Hi there 👋 
+## Thanks for visiting my GitHub Profile.
 
-## A few things about me:
+### A few things about me:
 
 - 🔭 I’m currently working on a [Python for Data Science & Machine Learning Course][udemyds]
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence using Python.
