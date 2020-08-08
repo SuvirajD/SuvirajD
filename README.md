@@ -10,6 +10,7 @@
 ### Languages and Tools I am familiar with:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Microsoft Excel" width="26px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-512.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"/>
