@@ -37,14 +37,14 @@
 
 ***
 
-<img align="left" alt="Suviraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SuvirajD&show_icons=true&hide_border=true&count_private=true&theme=algolia&hide=stars" /><br /><br /><br /><br /><br /><br />
+<img align="left" alt="Suviraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SuvirajD&show_icons=true&hide_border=true&count_private=true&theme=algolia&hide=stars" /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ***
 
 ### HackerRank Profile:
 
 
-[<img align="left" alt="Suviraj's HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />][hackerrank]
+[<img align="left" alt="Suviraj's HackerRank" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />][hackerrank]
 
 
 
