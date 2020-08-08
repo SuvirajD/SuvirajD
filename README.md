@@ -26,6 +26,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/terminal-512.png" />
 
 --
+--
+--
 
 <img align="left" alt="Suviraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SuvirajD&show_icons=true&hide_border=true" />
 
