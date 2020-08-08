@@ -1,4 +1,6 @@
 # Suviraj Dua's GitHub
+---
+
 ## Hi there  👋 
 
 ### A few things about me:
@@ -7,6 +9,8 @@
 - 🌱  I’m currently learning Machine Learning and Artificial Intelligence using Python.
 - ⚡⚡  I am open to Opportunities in the field of Data Science. 
 - 🥅  2020 Goals: Contribute more to Open Source projects.
+
+---
 
 ### Connect with me:
 
