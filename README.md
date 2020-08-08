@@ -1,5 +1,5 @@
-# 👋  Hi there  👋 
-## Suviraj Dua's GitHub Profile
+# Suviraj Dua's GitHub Profile
+## Hi there  👋 
 
 ### A few things about me:
 
@@ -12,6 +12,7 @@
 
 [<img align="left" alt="Suviraj's LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />][linkedin]
 [<img align="left" alt="Suviraj's Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" />][facebook]
+
 
 ### Languages and Tools I am familiar with:
 
