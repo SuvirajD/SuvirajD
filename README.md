@@ -27,9 +27,8 @@
 
 --
 
-<img align="left" alt="Suviraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SuvirajD&show_icons=true&hide_border=true" />
+<img align="left" alt="Suviraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SuvirajD&show_icons=true&hide_border=true&count_private=true" />
 
-![Suviraj's Github Stats](https://github-readme-stats.vercel.app/api?username=SuvirajD&count_private=true)
 
 
 [udemyds]: https://www.udemy.com/share/101WjcBEAdeFlbTXo=/
