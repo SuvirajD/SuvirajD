@@ -10,9 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Suviraj's LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />](linkedin)
-[<img align="left" alt="Suviraj's Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" />](facebook)
+[<img align="left" alt="Suviraj's LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />][linkedin]
+[<img align="left" alt="Suviraj's Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" />][facebook]
 
+---
 
 ### Languages and Tools I am familiar with:
 
@@ -31,7 +32,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/terminal-512.png" />
 
-
+***
 
 <img align="left" alt="Suviraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SuvirajD&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
 
