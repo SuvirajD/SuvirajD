@@ -3,7 +3,6 @@
 
 ## Hi there  👋 
 
-### A few things about me:
 
 - 🔭  I’m currently working on a [Python for Data Science & Machine Learning Course][udemyds]
 - 🌱  I’m currently learning Machine Learning and Artificial Intelligence using Python.
