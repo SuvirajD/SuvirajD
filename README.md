@@ -1,6 +1,5 @@
 # Suviraj Dua's GitHub
 
-***
 
 
 - 🔭  I’m currently working on a [Python for Data Science & Machine Learning Course][udemyds]
