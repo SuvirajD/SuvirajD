@@ -1,6 +1,6 @@
 # Suviraj Dua's GitHub
 
-## Hi there  👋 
+***
 
 
 - 🔭  I’m currently working on a [Python for Data Science & Machine Learning Course][udemyds]
